@@ -7,5 +7,6 @@
  */
 int main(void)
 {
+	printf("Alx");
 	return (0);
 }
