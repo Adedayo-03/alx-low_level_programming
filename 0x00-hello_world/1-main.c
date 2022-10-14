@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf ("Prince");
+	printf ("Holberton School");
 	return (0);
 }
