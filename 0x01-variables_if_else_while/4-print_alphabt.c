@@ -19,6 +19,6 @@ int main(void)
 		low++;
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
 
