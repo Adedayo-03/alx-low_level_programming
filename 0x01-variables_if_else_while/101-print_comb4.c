@@ -1,4 +1,4 @@
-#include <stdio.h>>
+#include <stdio.h>
 /**
  * main - Entry point
  *
@@ -19,7 +19,7 @@ int main(void)
 				if (!((ones == tens) || (hundreds == tens) || (tens > ones) || (hundreds > tens)))
 				{
 					putchar(hundreds);
-					putchar(tens)
+					putchar(tens);
 					putchar(ones);
 					if (!(ones == '9' && hundreds == '7' && tens == '8'))
 					{
