@@ -15,8 +15,7 @@ int print_last_digit(int value)
 	}
 	else
 	{
-		_putchar(remain + '0');
-		return (remain);
+		return (remain + '0');
 	}
 	return (0);
 }
